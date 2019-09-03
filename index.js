@@ -34,7 +34,7 @@ const KidCudi = {
 }
 
 const ChrissyTeigen ={
-  name: 'ChrissyT',
+  name: 'ChrissyTeigen',
   location: 'who is she again',
   link: 'CT.com',
   joined: '11/19/2014',
